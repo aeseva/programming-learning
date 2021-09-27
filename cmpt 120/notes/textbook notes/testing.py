@@ -1,0 +1,1 @@
+print("Tempura".lower().upper())
